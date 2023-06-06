@@ -1,0 +1,241 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* .App-link {
+  color: #61dafb;
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+nav {
+  background-color: rgb(0, 238, 255);
+  padding: 30px 60px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 40px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav li {
+  list-style: none;
+  border-radius: 40px;
+}
+
+nav li a {
+  color: red;
+  text-decoration: none;
+  padding: 11px 15px;
+  font-weight: bold;
+  border-radius: 200px;
+  background-color: #d580ea;
+}
+nav li a :hover {
+  color: black;
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding: 20px;
+}
+.container1 {
+  padding: 30px;
+  margin-top: 0px;
+}
+.container2 {
+  padding: 30px;
+  background-color: #8c509b;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+header {
+  padding: 0px;
+  background-color: rgb(234, 213, 233);
+}
+.form-sm {
+  background: none;
+  padding: 10px 300px;
+  background-color: rgb(186, 199, 195);
+  border-radius: 40px;
+}
+/* .form-login {
+  background: none;
+  padding: 10px 300px;
+  background-color: aquamarine;
+  border-radius: 40px;
+} */
+.mt-4 {
+  background: none;
+  padding: 30px 300px;
+  background-color: rgb(186, 199, 195);
+}
+.card-header {
+  background-color: #c9a1d3;
+}
+footer {
+  color: rgb(159, 74, 156);
+  padding: 50px;
+  background-color: rgb(208, 153, 238);
+}
+
+img {
+  padding: 1px;
+  border: 10px;
+  border-color: brown;
+}
+.logos {
+  height: 80px;
+  width: 100px;
+  float: left;
+}
+
+summary {
+  border-style: dotted;
+  border: 10px;
+  border-radius: 40px;
+  padding: 5px;
+}
+
+.tri_magic {
+  min-height: 700px;
+  height: auto;
+  background-color: rgb(186, 199, 195);
+  padding: 10px;
+}
+
+.accorditon {
+  text-align: start;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+.FontAwesomeIcon {
+  color: #640e7a;
+}
+.container3 {
+  padding: 50px;
+  background-color: rgb(186, 199, 195);
+}
+.txt {
+  text-align: start;
+  padding: 20px;
+}
+a {
+  padding: 20px;
+  justify-content: center;
+}
+.tri {
+  font-size: 40px;
+  font-weight: unset;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-display: 200px;
+  font-variant-numeric: lining-nums;
+}
+
+.trii {
+  background-color: rgb(136, 179, 249);
+}
+label {
+  font-weight: bold;
+}
+
+.imagePay {
+  height: 120px;
+  width: 250px;
+  border: 100px;
+  background-color: rgb(34, 135, 102);
+  border-radius: 10px;
+}
+.about {
+  height: 300px;
+  width: 500px;
+}
+.img {
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+.badge {
+  font-size: 25px;
+  border-radius: 100px;
+}
+.alert {
+  border-radius: 60px;
+}
+.btn {
+  border-radius: 60px;
+}
+.btntime {
+  border-radius: 15px;
+  width: 150px;
+}
+.ques {
+  margin-top: 50px;
+}
+.content {
+  margin-top: 0px;
+}
+.content1 {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.imge {
+  height: 425px;
+  width: 700px;
+  border-radius: 10px;
+}
+.sup {
+  margin-top: 20px;
+}
+
+.layout {
+  margin-top: 30px;
+}
+.partner {
+  text-align: start;
+  margin-bottom: 40px;
+  font-size: 30px;
+  color: blue;
+  font-weight: bold;
+}
