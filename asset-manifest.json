@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Loanwebapp/static/css/main.880be750.css",
+    "main.js": "/Loanwebapp/static/js/main.236243d3.js",
+    "static/js/787.0f30f6cf.chunk.js": "/Loanwebapp/static/js/787.0f30f6cf.chunk.js",
+    "static/media/vay-tien-online-nhanh.png": "/Loanwebapp/static/media/vay-tien-online-nhanh.d6435b4643ffcb7fedd3.png",
+    "static/media/R.jpg": "/Loanwebapp/static/media/R.c04d2f8e41894b3db7df.jpg",
+    "static/media/vay-tien-online-1.jpg": "/Loanwebapp/static/media/vay-tien-online-1.01b2b86c7d90a68685ea.jpg",
+    "static/media/vay-tien-online.jpg": "/Loanwebapp/static/media/vay-tien-online.46c2d16c3c451fb2e4f1.jpg",
+    "static/media/SHB.png": "/Loanwebapp/static/media/SHB.30e57e7e2fa9ca864205.png",
+    "static/media/LogoBIDV.png": "/Loanwebapp/static/media/LogoBIDV.0e616d7c768fdc6dd9e8.png",
+    "static/media/Sacombank.png": "/Loanwebapp/static/media/Sacombank.3d97c0a3658e0f4902c6.png",
+    "static/media/bground_vay_tien.jpg": "/Loanwebapp/static/media/bground_vay_tien.e0b0c5f64e12793d53fa.jpg",
+    "static/media/vietcombank.png": "/Loanwebapp/static/media/vietcombank.6025e0bf2d31fb67993f.png",
+    "static/media/bground.jpg": "/Loanwebapp/static/media/bground.f37991c22c7bb17763da.jpg",
+    "static/media/TPBank.png": "/Loanwebapp/static/media/TPBank.2c3bb46daf8e340c9075.png",
+    "static/media/SeABank.png": "/Loanwebapp/static/media/SeABank.0134f9824c230325fa09.png",
+    "static/media/VPBank.png": "/Loanwebapp/static/media/VPBank.697dab917ddf3f255376.png",
+    "static/media/OceanBank.png": "/Loanwebapp/static/media/OceanBank.e90357996d537e311d53.png",
+    "static/media/MBBank.png": "/Loanwebapp/static/media/MBBank.5506db84533628994666.png",
+    "static/media/vietinbank.png": "/Loanwebapp/static/media/vietinbank.e170612a9a7f420aeae1.png",
+    "static/media/OCB.png": "/Loanwebapp/static/media/OCB.d3f89cfc0dad4508756e.png",
+    "static/media/Techcombank.png": "/Loanwebapp/static/media/Techcombank.6d0dec3ea2c75e55ff88.png",
+    "index.html": "/Loanwebapp/index.html",
+    "main.880be750.css.map": "/Loanwebapp/static/css/main.880be750.css.map",
+    "main.236243d3.js.map": "/Loanwebapp/static/js/main.236243d3.js.map",
+    "787.0f30f6cf.chunk.js.map": "/Loanwebapp/static/js/787.0f30f6cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.880be750.css",
+    "static/js/main.236243d3.js"
+  ]
+}
