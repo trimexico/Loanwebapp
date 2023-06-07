@@ -2,7 +2,7 @@
   "name": "vay_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://trimexico.github.io/loan_app/",
+  "homepage": "https://trimexico.github.io/Loanwebapp/",
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
